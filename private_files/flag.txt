@@ -1,0 +1,2 @@
+flag1: OMNICTF{sw1tch_c4s3_h1dd3n_fr0m_1d4}
+flag2: OMNICTF{f0und_th3_easy_w@y_hUh?}
