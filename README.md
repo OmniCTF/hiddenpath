@@ -1,2 +1,5 @@
-# hiddenpath
-Title:Higmund's attributes Category:Forensics Difficulty:Medium  Author:Masquerade Description:All aroung the world the BFS is here just mount it and it is yours.Take it all and leave none!
+Title:HiddenPath
+Category:Reverse
+Difficulty:Medium 
+Author:Masquerade
+Description:Hello traveler you have to get the flags!First part is easy second is... wait where is second part?
